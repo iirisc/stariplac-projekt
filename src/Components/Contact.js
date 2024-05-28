@@ -55,9 +55,12 @@ Pon - Ned: 08:00 - 22:00
 <br></br>
 <b>Pratite nas:</b>
 <br></br>
-<b>Facebook:</b> @stariplac
 <br></br>
-<b>Instagram:</b> @stariplac
+<b>Facebook:</b> <a href="https://www.facebook.com/stariplac" style={{textDecoration: "none", color: "rgb(128, 79, 0)", backgroundColor: "rgba(255,255,255, 0.2)", padding: "2px"}}>@stariplac</a>
+<br></br>
+<br></br>
+<b>Instagram:</b> <a href="https://www.instagram.com/stariplac/" style={{textDecoration: "none", color: "rgb(128, 79, 0)", backgroundColor: "rgba(255,255,255, 0.2)", padding: "2px"}}>@stariplac</a>
+<br></br>
 <br></br>
 <br></br>
 <b>Kako nas pronaći:</b>
